@@ -1,0 +1,12 @@
+input from html == array_ingredients[]
+
+recipe_score= array[] // recipe_score[recipeID] = 4
+
+for ing in array_ingredients[]:
+	returned_ids = select recipe_id from ingredients where name Like ing;
+	for recipe_id in returned_ids:
+		recipe_score[recipe_id] = recipe_score[recipe_id] + 1;
+		
+display 3 of recipes with top hits
+	
+

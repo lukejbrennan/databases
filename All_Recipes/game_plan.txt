@@ -1,0 +1,25 @@
+Things we want to put in our video: 
+
+
+
+home page:
+-describe our project
+
+matt:
+-demo uploading data into the database
+
+-insert a recipe (pizza ball)
+
+-search by name (pizza ball)
+    -click and see directions
+    -join between our three tables (recipes, ingredients, and directions-- all of which have primary key of recipe id)
+-------
+-delete (pizza ball)
+
+-search by ingredient (sugar milk and eggs)
+
+luke:
+-demo wanting vegetarian categories
+    -python lib
+    -naive bayes and machine learning to place recipes into 4 different categories
+-------

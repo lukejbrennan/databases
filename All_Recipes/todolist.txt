@@ -1,0 +1,52 @@
+TODO List
+
+
+
+-naive bayes with categories of recipes
+	-https://www.python-course.eu/text_classification_python.php
+	-possible categories
+		-vegetarian
+		-#single-guy-dinners
+		-sweet
+		-savory
+		
+		
+		
+		-breakfast		
+		-summertime
+		-heavy-heavy
+		-quick-and-easy
+		-savory
+		-sweet
+		-vegetarian
+		-meat-lovers
+		-appetizers 
+		-#single-guy-dinners
+		
+		
+	-scikit learn
+	-pass in bag of words
+	-train on set of 100 on 7-8 categories
+		
+
+
+-Update
+	-update all contents of a recipe
+	
+-Search for Recipe by Ingredient
+
+-query with joins
+
+make adding not just limited to 3 instructions/directions
+
+after video: 
+-clean data input 
+	-minutes, hours
+	-dollars
+	-calculate avg-rating
+	-tot_time
+	-make it required to put in a recipe name
+	-add more than two ingredients and two instructions
+
+
+

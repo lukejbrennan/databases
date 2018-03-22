@@ -1,0 +1,30 @@
+Showoff: 
+	-search (on web)
+	-insert (on web)
+	-delete (delete_by_id.html)
+	-show full database
+
+Plan: 
+	-scraping is an advanced function
+	-sorting by price, shortest time etc 
+	-price determination for recipes
+		-follow links given on 
+	-recipe recommendation (user_id data)
+		-tags for recipes
+	-database of users
+	-collaborative filtering
+		-we can make that up
+		-you like abc... lotsa other people like abc too, but they also like def: you may also like def
+
+Questions:
+	-Database Design: * schema is ok
+		-no anomalies
+		-avoid info loss
+		-preserve dependencies
+		
+
+	-Ingredients List (Quantity and Item): 
+		-parsing advice (list of things and parse
+		
+	-Multiple of the same ingredient per recipe (sub_recipes): remove or add add...
+	
